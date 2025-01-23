@@ -1,0 +1,12 @@
+django
+django-extensions
+django-filter
+djangorestframework
+drf-spectacular
+drf-spectacular-sidecar
+django-dotenv
+flake8
+black
+pre-commit
+django-dotenv
+requests
